@@ -1,5 +1,11 @@
 # Descripción del Proyecto
 
+**************
+
+las imágenes de testeo de este proyecto están abajo de este documento
+
+**************
+
 Primero, el programa importa la librería `datetime`, que se usa para obtener información sobre la fecha y hora del sistema. En este caso, nos interesa saber qué día es hoy.
 
 Luego, se solicita al usuario que ingrese su nombre mediante la función `input`. El valor que entrega el usuario se almacena en una variable y se utiliza para mostrar un saludo personalizado. Esto hace que el programa sea más cercano y dinámico.
