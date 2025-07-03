@@ -16,6 +16,8 @@ A continuación se muestran
 
 
 Capturas de pantalla durante el proceso de desarrollo:
-
+PRINT UNO PROGRAMA ORIGINAL TESTEADO 2 VECES
 ![Captura 1](img/testeo_uno.png)
+
+PRINT DOS PROGRAMA CON MODIFICACIONES 
 ![Captura 2](img/testeo_dos.png)
