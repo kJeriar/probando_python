@@ -11,3 +11,7 @@ Después de eso, el programa define dos diccionarios. El primero se utiliza para
 Finalmente, el programa determina qué día es hoy, lo traduce al español utilizando el primer diccionario, y luego selecciona y muestra el mensaje correspondiente con ayuda del segundo diccionario.
 
 En caso de que por alguna razón no se reconozca el día, se muestra un mensaje por defecto que indica que no hay mensaje disponible para ese día.
+A continuación se muestran capturas de pantalla durante el proceso de desarrollo:
+
+![Captura 1](img/testeo_uno.png)
+![Captura 2](img/testeo_dos.png)
